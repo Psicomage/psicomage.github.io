@@ -15,6 +15,12 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
+    - Name: Manifesto
+    URL: https://psicomage-nfts-network.gitbook.io/psicomage-nfts-network-manifesto
+    Icon-Class: fas fa-scroll
+    Color: '#008000'
+    Text_Color: '#ffffff'
+    
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
