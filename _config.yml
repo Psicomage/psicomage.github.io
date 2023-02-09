@@ -15,6 +15,26 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
+    # CUSTOM LINK
+    
+  - Name: Opensea
+    URL: https://opensea.io/Psicomage
+    Icon-Class: fas fa-ship
+    Color: '#2081E2'
+    Text_Color: '#ffffff'
+    
+  - Name: Manifesto
+    URL: https://psicomage-nfts-network.gitbook.io/psicomage-nfts-network-manifesto
+    Icon-Class: fas fa-scroll
+    Color: '#008000'
+    Text_Color: '#ffffff'
+
+  # - Name: Links
+  #   URL:
+  #   Icon-Class: fas fa-link
+  #   Color: '#d94869'
+  #   Text_Color: '#ffffff'
+    
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
@@ -234,26 +254,6 @@ links:
   #   Icon-Class: fas fa-mug-hot
   #   Color: '#FFDD00'
   #   Text_Color: '#000000'
-
-    # CUSTOM LINK
-    
-  - Name: Opensea
-    URL: https://opensea.io/Psicomage
-    Icon-Class: fas fa-ship
-    Color: '#2081E2'
-    Text_Color: '#ffffff'
-    
-  - Name: Manifesto
-    URL: https://psicomage-nfts-network.gitbook.io/psicomage-nfts-network-manifesto
-    Icon-Class: fas fa-scroll
-    Color: '#008000'
-    Text_Color: '#ffffff'
-
-  # - Name: Links
-  #   URL:
-  #   Icon-Class: fas fa-link
-  #   Color: '#d94869'
-  #   Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
