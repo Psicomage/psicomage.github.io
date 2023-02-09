@@ -34,7 +34,36 @@ links:
   #   Icon-Class: fas fa-link
   #   Color: '#d94869'
   #   Text_Color: '#ffffff'
+  
+  # DISCORD
+  - Name: Discord
+    URL: 'https://discord.gg'
+    Username: ABGgURpk9w
+    Icon-Class: fab fa-discord
+    Color: '#5865F2'
+    Text_Color: '#ffffff'
     
+    # TWITTER
+  - Name: Twitter
+    URL: https://twitter.com
+    Username: Psicomage1
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
+    
+    # REDDIT
+  - Name: Reddit
+    URL: http://reddit.com/u
+    Username: Psicomage
+    Color: '#FF4500'
+    Icon-Class: fab fa-reddit-alien
+    
+    # TELEGRAM
+  - Name: Telegram
+    URL: http://telegram.me
+    Username: Psicomage
+    Color: '#229ED9'
+    Icon-Class: fab fa-telegram-plane
+
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
@@ -48,13 +77,6 @@ links:
     Username: psicomage1
     Color: '#833AB4'
     Icon-Class: fab fa-instagram
-
-    # TWITTER
-  - Name: Twitter
-    URL: https://twitter.com
-    Username: Psicomage1
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
 
  #   # Cal.com
  # - Name: Cal.com
@@ -84,19 +106,19 @@ links:
     #Color: '#ff0000'
     #Icon-Class: fab fa-youtube
 
-    # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: Psicomage
-    Color: '#151013'
-    Icon-Class: fab fa-github
-
     # EMAIL
   - Name: Email
     URL: 'mailto:m.bagiante@mail.com'
     Icon-Class: fas fa-envelope
     Color: '#b7b814'
     Text_Color: '#ffffff'
+    
+    # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: Psicomage
+    Color: '#151013'
+    Icon-Class: fab fa-github
 
     # TWITCH
   - #Name: Twitch
@@ -121,26 +143,12 @@ links:
     #Color: '#006AFF'
     #Icon-Class: fab fa-facebook-messenger
 
-    # REDDIT
-  - Name: Reddit
-    URL: http://reddit.com/u
-    Username: Psicomage
-    Color: '#FF4500'
-    Icon-Class: fab fa-reddit-alien
-
   #   # WHATSAPP
   # - Name: WhatsApp
   #   URL: https://wa.me
   #   Username: '+1123456789'
   #   Color: '#25d366'
   #   Icon-Class: fab fa-whatsapp
-
-    # TELEGRAM
-  - Name: Telegram
-    URL: http://telegram.me
-    Username: Psicomage
-    Color: '#229ED9'
-    Icon-Class: fab fa-telegram-plane
 
     # SNAPCHAT
   - #Name: Snapchat
@@ -157,14 +165,6 @@ links:
     #Color: '#66c0f4'
     #Text_Color: '#000000'
     #Icon-Class: fab fa-steam
-
-    # DISCORD
-  - Name: Discord
-    URL: 'https://discord.gg'
-    Username: ABGgURpk9w
-    Icon-Class: fab fa-discord
-    Color: '#5865F2'
-    Text_Color: '#ffffff'
 
     # PINTEREST
   - #Name: Pinterest
