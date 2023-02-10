@@ -28,6 +28,12 @@ links:
     Icon-Class: fas fa-scroll
     Color: '#008000'
     Text_Color: '#ffffff'
+    
+  - Name: Showtime
+    URL: https://showtime.xyz/@Psicomage
+    Icon-Class: fas fa-star
+    Color: '#d94869'
+    Text_Color: '#ffffff'
 
   # - Name: Links
   #   URL:
