@@ -32,7 +32,7 @@ links:
   - Name: Showtime
     URL: https://showtime.xyz/@Psicomage
     Icon-Class: fas fa-star
-    Color: '#d94869'
+    Color: '#000000'
     Text_Color: '#ffffff'
 
   # - Name: Links
