@@ -10,8 +10,6 @@ Image_URL: https://avatars.githubusercontent.com/u/113297103
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://previews.dropbox.com/p/thumb/AB2GmWh4Spp37Qm6x5-c_LpPn5Mji7DjNjNjckf1aGQ1XIhE0A474Bj_zfv3FsdSQAatLyMKJhm_rJccIPHVKNfNFFi-BwZHI_oynV6Oae6TZWZTA72YMmjYP4fPdqmnYI_pqMIcEIuyz8cIbt9XnkLIOkRmflmJ04WcVImuoNicaNLwK0WTlvII8pw5WpjbBtK4z5hdL-myzllv6UfaqDJQrBjXDnaArBo3rdyGOpYaqz9UOMe44YZKf7-juy98Q94Uy2aHKG8jXbhpOZ1rVwGZ0rnf88zDUx8osN0jHsZXXuw3CxkQ-69lP0dA2R2LYYzYfWNzmg5C67XWivkXLFfW7_lE2WVJEBSI0Azk9d9KT5fuw1OcwfLpc8Ez6E7zzhE/p.jpeg
 
-title: Marketplaces
-
 # SOCIAL MEDIA
 links:
 
@@ -36,13 +34,7 @@ links:
     Icon-Class: fas fa-star
     Color: '#000000'
     Text_Color: '#ffffff'
-    
-    
-title:
-
-# SOCIAL MEDIA
-links:
-    
+        
   - Name: Manifesto
     URL: https://psicomage-nfts-network.gitbook.io/psicomage-nfts-network-manifesto
     Icon-Class: fas fa-scroll
