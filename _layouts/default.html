@@ -11,7 +11,7 @@ layout: compress
 
 <body class="bg-black text-white">
     <div class="mx-auto my-auto w-screen">
-        <div class="grid place-content-center min-w-full min-h-full py-10 px-14 my-auto min-h-screen absolute z-0">
+        <div class="grid place-content-center min-w-full min-h-full py-10 px-7 my-auto min-h-screen absolute z-0">
             <div class="bg-black h-full min-w-full absolute z-10"
                 style="background-image: url({{site.Cover_Image}}); filter: blur(15px); background-position: center; background-size: cover;">
             </div>
@@ -27,7 +27,7 @@ layout: compress
                 <hr class="my-2 opacity-25">
                 <p class="text-base break-words inline-flex font-normal mt-1.5 mx-auto text-center opacity-50 2xl:w-5/12 xl:w-5/12 md:w-6/12 sm:w-full justify-center">{{site.tagline}}</p>
                 <hr class="my-2 opacity-25">
-                <div class="grid 2xl:grid-cols-1 xl:grid-cols-1 lg:grid-cols-1 md:grid-cols-1 sm:grid-cols-1 my-7">
+                <div class="grid 2xl:grid-cols-4 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 my-7">
                     {% unless site.links == "" %}
                     {% include links.html %}
                     {% endunless %}
