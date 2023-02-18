@@ -4,7 +4,7 @@ name: Psicomage
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: Reality is made with pixels
 
-title: Test
+title:
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://avatars.githubusercontent.com/u/113297103
@@ -19,22 +19,28 @@ links:
     
     # CUSTOM LINK
     
+  - Name: Rarible
+    URL: https://rarible.com/Psicomage/
+    Icon-Class: fa-solid fa-r
+    Color: '#fbdb04'
+    Text_Color: '##000000'
+    
   - Name: Opensea
     URL: https://opensea.io/Psicomage
     Icon-Class: fas fa-ship
     Color: '#2081E2'
     Text_Color: '#ffffff'
     
-  - Name: Manifesto
-    URL: https://psicomage-nfts-network.gitbook.io/psicomage-nfts-network-manifesto
-    Icon-Class: fas fa-scroll
-    Color: '#008000'
-    Text_Color: '#ffffff'
-    
   - Name: Showtime
     URL: https://showtime.xyz/@Psicomage
     Icon-Class: fas fa-star
     Color: '#000000'
+    Text_Color: '#ffffff'
+    
+  - Name: Manifesto
+    URL: https://psicomage-nfts-network.gitbook.io/psicomage-nfts-network-manifesto
+    Icon-Class: fas fa-scroll
+    Color: '#008000'
     Text_Color: '#ffffff'
 
   # - Name: Links
