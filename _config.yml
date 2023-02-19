@@ -16,7 +16,6 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
     # CUSTOM LINK
-    title: test
   - Name: Rarible
     URL: https://rarible.com/Psicomage/
     Icon-Class: fa-solid fa-r
