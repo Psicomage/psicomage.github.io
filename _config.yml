@@ -15,6 +15,13 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
+    - Name:
+    URL:
+    text: test
+     Icon-Class: fas fa-link
+     Color: '#d94869'
+     Text_Color: '#ffffff'
+    
     # CUSTOM LINK
   - Name: Rarible
     URL: https://rarible.com/Psicomage/
