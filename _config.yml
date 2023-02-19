@@ -21,11 +21,11 @@ links:
     URL: https://rarible.com/Psicomage/
     Icon-Class: fa-solid fa-r
     Color: '#fbdb04'
-    Text_Color: '##000000'
+    Text_Color: '#000000'
     
   - Name: Opensea
     URL: https://opensea.io/Psicomage
-    Icon-Class: fas fa-ship
+    Icon-Class: fa-solid fa-sailboat
     Color: '#2081E2'
     Text_Color: '#ffffff'
     
