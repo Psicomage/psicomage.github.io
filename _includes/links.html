@@ -1,11 +1,5 @@
 {% for link in site.links %}
 
-{% if site.title %}
-
-<p class="inline-flex bg-black bg-opacity-50 w-full p-2 justify-center mt-1.5 mx-auto text-center font-semibold 2xl:w-5/12 xl:w-5/12 md:w-6/12 sm:w-full justify-center">{{site.title}}</p>
-
-{% endif %}
-
 {% if link.URL %}
 
 <a class="flex" href="{{link.URL}}{% if link.Username %}/{{link.Username}}{% endif %}" target="_blank"
