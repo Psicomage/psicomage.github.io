@@ -41,7 +41,7 @@ links:
     
   - Name: Mirror
     URL: https://mirror.xyz/0x3782a826a0C2657b9AEbfa980245F7D76C312907
-    Icon-Class: fa-solid fa-book-open
+    Icon-Class: fa-solid fa-book
     Color: '#0f7bf0'
     Text_Color: '#ffffff'
     
