@@ -39,7 +39,13 @@ links:
     Color: '#000000'
     Text_Color: '#ffffff'
     
-    Name: Psicomage.NFT
+  - Name: Mirror
+    URL: https://t.co/osco9AhV5n
+    Icon-Class: fa-solid fa-book
+    Color: '#0f7bf0'
+    Text_Color: '#ffffff'
+    
+  - Name: Psicomage.NFT
     URL: https://ud.me/psicomage.nft
     Icon-Class: fa-solid fa-hat-wizard
     Color: '#fb8301'
@@ -94,12 +100,6 @@ links:
     Color: '#833AB4'
     Icon-Class: fab fa-instagram
     
-    Name: Mirror
-    URL: https://t.co/osco9AhV5n
-    Icon-Class: fa-solid fa-book
-    Color: '#0f7bf0'
-    Text_Color: '#ffffff'
- 
      # CUSTOM LINK
  # - Name: Links
  #   URL:
