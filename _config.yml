@@ -28,7 +28,7 @@ links:
     Color: '#fbdb04'
     Text_Color: '#000000'
     
-  - Name: Opensea Profile
+  - Name: Opensea               
     URL: https://opensea.io/Psicomage
     Icon-Class: fa-solid fa-sailboat
     Color: '#2081E2'
