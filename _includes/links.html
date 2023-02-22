@@ -1,11 +1,5 @@
 {% for link in site.links %}
 
-
-{% if link.text %}
-<hr class="my-2 opacity-25">
- <p class="flex absolute mt-5 z-20 bg-black bg-opacity-50 w-full p-2 justify-center font-semibold">{{link.text}}</p>
-
-{% endif %}
 {% if link.URL %}
 
 <a class="flex" href="{{link.URL}}{% if link.Username %}/{{link.Username}}{% endif %}" target="_blank"
@@ -18,12 +12,6 @@
                 </span>
         </button>
 </a>
-
-{% endif %}
-
-{% if link.text %}
-<hr class="my-2 opacity-25">
-    <p class="flex absolute mt-5 z-20 bg-black bg-opacity-50 w-full p-2 justify-center font-semibold">{{link.text}}</p>
 
 {% endif %}
 
