@@ -15,21 +15,20 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
-    - Name:
+    Name: 
     URL:
     text: test
-     Icon-Class: fas fa-link
-     Color: '#d94869'
-     Text_Color: '#ffffff'
-    
-    # CUSTOM LINK
+    Icon-Class: fas fa-link
+    Color: '#d94869'
+    Text_Color: '#ffffff'
+        
   - Name: Rarible
     URL: https://rarible.com/Psicomage/
     Icon-Class: fa-solid fa-r
     Color: '#fbdb04'
     Text_Color: '#000000'
     
-  - Name: Opensea
+  - Name: Opensea - Profile
     URL: https://opensea.io/Psicomage
     Icon-Class: fa-solid fa-sailboat
     Color: '#2081E2'
@@ -46,12 +45,6 @@ links:
     Icon-Class: fas fa-scroll
     Color: '#008000'
     Text_Color: '#ffffff'
-
-  # - Name: Links
-  #   URL:
-  #   Icon-Class: fas fa-link
-  #   Color: '#d94869'
-  #   Text_Color: '#ffffff'
   
   # DISCORD
   - Name: Discord
@@ -95,6 +88,13 @@ links:
     Username: psicomage1
     Color: '#833AB4'
     Icon-Class: fab fa-instagram
+ 
+     # CUSTOM LINK
+ # - Name: Links
+ #   URL:
+ #   Icon-Class: fas fa-link
+ #   Color: '#d94869'
+ #   Text_Color: '#ffffff'
 
  #   # Cal.com
  # - Name: Cal.com
