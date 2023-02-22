@@ -15,12 +15,12 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
-    Name: 
-    URL:
-    text: test
-    Icon-Class: fas fa-link
-    Color: '#d94869'
-    Text_Color: '#ffffff'
+   # Name: 
+   # URL:
+   # text: test
+   # Icon-Class: fas fa-link
+   # Color: '#d94869'
+   # Text_Color: '#ffffff'
         
   - Name: Rarible
     URL: https://rarible.com/Psicomage/
@@ -28,7 +28,7 @@ links:
     Color: '#fbdb04'
     Text_Color: '#000000'
     
-  - Name: Opensea - Profile
+  - Name: Opensea Profile
     URL: https://opensea.io/Psicomage
     Icon-Class: fa-solid fa-sailboat
     Color: '#2081E2'
