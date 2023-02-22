@@ -17,7 +17,6 @@ links:
     
    # Name: 
    # URL:
-   # text: test
    # Icon-Class: fas fa-link
    # Color: '#d94869'
    # Text_Color: '#ffffff'
@@ -38,6 +37,18 @@ links:
     URL: https://showtime.xyz/@Psicomage
     Icon-Class: fas fa-star
     Color: '#000000'
+    Text_Color: '#ffffff'
+    
+  - Name: Mirror
+    URL: https://mirror.xyz/0x3782a826a0C2657b9AEbfa980245F7D76C312907
+    Icon-Class: fa-solid fa-book-open
+    Color: '#0f7bf0'
+    Text_Color: '#ffffff'
+    
+    Name: Psicomage.NFT
+    URL: https://ud.me/psicomage.nft
+    Icon-Class: fa-solid fa-hat-wizard
+    Color: '#fb8301'
     Text_Color: '#ffffff'
         
   - Name: Manifesto
