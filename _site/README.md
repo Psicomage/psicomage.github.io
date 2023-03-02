@@ -1,3 +1,8 @@
+# Psicomage | Links
+v. 1.0.0
+
+Original project:
+
 # [Links](https://github.com/harsh98trivedi/Links)
 
 A Beautiful Jekyll Theme For Links
